@@ -13,5 +13,9 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello");
         }
+        public void GameOver()
+        {
+            Console.WriteLine("Dead");
+        }
     }
 }
