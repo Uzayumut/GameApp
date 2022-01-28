@@ -17,5 +17,9 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Dead");
         }
+        public void TextFetch()
+        {
+            Console.WriteLine("Fetch");
+        }    
     }
 }
