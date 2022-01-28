@@ -20,6 +20,10 @@ namespace ConsoleApp1
         public void TextFetch()
         {
             Console.WriteLine("Fetch");
-        }    
+        }  
+        public void TextBranch()
+        {
+            Console.WriteLine("Branch");
+        }
     }
 }
